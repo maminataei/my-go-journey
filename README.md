@@ -16,3 +16,9 @@ https://gobyexample.com/
 Learn to build real, production-grade web applications from scratch.
 
 https://www.usegolang.com/
+
+4- Mastering Go (book)
+
+This book serves as a step-by-step guide for learning the Go programming language, and I used it alongside other resources.
+
+https://www.amazon.se/-/en/Mihalis-Tsoukalos-dp-1805127144/dp/1805127144/ref=dp_ob_title_bk
