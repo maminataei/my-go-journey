@@ -1,5 +1,5 @@
 
-# Hi, I'm Amin! 👋
+# Hi, I'm Amin (You can call me Hershel)! 👋
 
 First of all, I should mention that I started learning Go with 4 years of experience in JavaScript/TypeScript development. If you're new to programming, this path may not be ideal for beginners. In fact, I believe GoLang is not suitable for someone starting from scratch. There are many programming languages better suited for beginners, such as Python, JavaScript, and C++.
 
