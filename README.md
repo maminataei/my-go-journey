@@ -1,11 +1,17 @@
 
 # Hi, I'm Amin! 👋
 
-I'm a Javascript developer and I started to learn golang. these are my resources which I'm using to learn GoLang:
+First of all, I should mention that I started learning Go with 4 years of experience in JavaScript/TypeScript development. If you're new to programming, this path may not be ideal for beginners. In fact, I believe GoLang is not suitable for someone starting from scratch. There are many programming languages better suited for beginners, such as Python, JavaScript, and C++.
 
-1- course on Udemy by Steven Grider. This course is good for beginners and it teaches you the basics of Golang from hello world to go routines
+At the beginning, I was like: “Ok, where should I start? Which website or tutorial is good to begin this journey?”
 
-https://www.udemy.com/course/go-the-complete-developers-guide/
+Then I found this course on Udemy:
+
+[Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/share/101XnU3@rmnNwYPBSlfExPUhH-LKSql8ePnOqdWs6ACU9p_jypKU5ejj7FgMFNgm9rJteudb2Q==/)
+
+It is a great course to start learning the Go programming language. It covers basic topics like Go modules, pages, program entry points, variables and functions, file organization, and data types. It then moves on to advanced topics like error handling and testing.
+
+One of the best aspects of this course is that the instructor, Stephen Grider, explains each topic using charts and clear examples.
 
 2- Go by Example, which is a reference document that provides hands-on examples of Golang features.
 
