@@ -13,6 +13,10 @@ It is a great course to start learning the Go programming language. It covers ba
 
 One of the best aspects of this course is that the instructor, Stephen Grider, explains each topic using charts and clear examples.
 
+After I understood the basics of Golang, I decided it was a good time to build a simple application without any database or external storage. I found a perfect list of Golang packages, libraries, and resources to use while building this application in this github page : 
+
+https://github.com/avelino/awesome-go
+
 2- Go by Example, which is a reference document that provides hands-on examples of Golang features.
 
 https://gobyexample.com/
