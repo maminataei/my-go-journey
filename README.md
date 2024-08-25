@@ -17,6 +17,10 @@ After I understood the basics of Golang, I decided it was a good time to build a
 
 https://github.com/avelino/awesome-go
 
+In addition to these resources, I decided to get some hands-on experience by implementing a simple application. I began by creating a basic CLI application that manages a list of agencies associated with different regions, saving the data into two JSON files.
+
+https://github.com/maminataei/agencies_cli
+
 2- Go by Example, which is a reference document that provides hands-on examples of Golang features.
 
 https://gobyexample.com/
