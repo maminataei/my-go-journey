@@ -21,6 +21,10 @@ In addition to these resources, I decided to get some hands-on experience by imp
 
 https://github.com/maminataei/agencies_cli
 
+and after that I started another project "todo cli". I think I can see my improvements in writing code in golang.
+
+https://github.com/maminataei/todo_cli_app
+
 2- Go by Example, which is a reference document that provides hands-on examples of Golang features.
 
 https://gobyexample.com/
