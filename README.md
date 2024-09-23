@@ -23,7 +23,7 @@ https://github.com/maminataei/todo_cli_app
 At this moment, I feel it's the right time to learn concurrency in Golang. I discovered a Udemy course by Trevor Sawler that looks promising:
 
 Udemy – Working with Concurrency in Go (Golang)
-Course Link
+[Course Link](https://www.udemy.com/course/working-with-concurrency-in-go-golang/)
 
 The course starts by solving basic examples and problems, and then progresses to more real-world projects.
 
