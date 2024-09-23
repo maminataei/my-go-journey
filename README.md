@@ -20,6 +20,13 @@ After completing that project, I started another one: a "todo CLI" application. 
 
 https://github.com/maminataei/todo_cli_app
 
+At this moment, I feel it's the right time to learn concurrency in Golang. I discovered a Udemy course by Trevor Sawler that looks promising:
+
+Udemy – Working with Concurrency in Go (Golang)
+Course Link
+
+The course starts by solving basic examples and problems, and then progresses to more real-world projects.
+
 Here are some additional resources that have helped me along the way:
 
 1. **Go by Example:** A reference document that provides hands-on examples of Golang features.  
